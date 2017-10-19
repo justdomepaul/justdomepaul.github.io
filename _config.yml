@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "air" # "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en" # "zh-TW"
+locale                   : "zh-TW" # "zh-TW"
 title                    : "Maxfocker Zero To Hero"
 title_separator          : "-"
 name                     : "Maxfocker"
